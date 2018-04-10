@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513165869 source:f:\datastructure\bst1\main.cpp
+	<iostream>
+	<BST.h>
+	<string>
+
+1513145613 f:\datastructure\bst1\include\bst.h
+	<string>
+	<iostream>
+
+1513056731 source:f:\datastructure\bst1\src\bst.cpp
+	"BST.h"
+
